@@ -7,4 +7,4 @@ rtprs=input("r:")
 rtprs=float(rtprs)
 Pay=hrs*rtprs
          
-print("Pay:",Pay)
+print("Gross Pay:",Pay)
