@@ -1,3 +1,3 @@
 # Why Program
 
-print("Rahul")
+print("python")
