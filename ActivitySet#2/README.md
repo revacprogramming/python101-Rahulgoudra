@@ -8,6 +8,7 @@
 Enter 1st Number? 1
 Enter 2nd Number? 2
 Sum of 1 and 2 is 3
+
 ```
 
 ### Activity 2

@@ -1,3 +1,3 @@
 # Why Program
 
-print("python")
+print("hello world")
