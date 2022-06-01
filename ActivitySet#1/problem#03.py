@@ -3,8 +3,8 @@
 
 hrs = input("Enter Hours:")
 hrs=float(hrs)
-rtprs=input("r:")
-rtprs=float(rtprs)
-Pay=hrs*rtprs
+rps=input(" Enter rate :")
+rps=float(rps)
+Pay=hrs*rps
          
 print(" Pay:",Pay)
