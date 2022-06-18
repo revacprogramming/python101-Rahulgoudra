@@ -9,4 +9,4 @@ if h<=40:
 elif h>40:
      h=h-40
      pay=(40*r)+h*r*1.5
-     print(pay)   
+     print("pay:",pay)   
