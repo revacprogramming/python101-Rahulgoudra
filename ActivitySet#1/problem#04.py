@@ -1,5 +1,5 @@
-hrs = input("Enter Hours:")
-h = float(hrs)
+hr = input("Enter Hours:")
+h = float(hr)
 r=input("enter rate")
 r=float(r)
 if h<=40:
